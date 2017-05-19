@@ -1,8 +1,8 @@
 [
  {
-   "repository" : "LineageOS/android_kernel_xiaomi_msm8996",
+   "repository" : "DirtyUnicorns/android_kernel_xiaomi_msm8996",
    "target_path": "kernel/xiaomi/msm8996",
-   "branch"     : "cm-14.1"
+   "branch"     : "n7x-caf"
  },
  {
    "repository" : "DirtyUnicorns/android_vendor_nxp-nfc_opensource_frameworks",
@@ -40,13 +40,8 @@
    "branch"     : "n7x-caf"
  },
  {
-   "repository" : "TheMuppets/proprietary_vendor_xiaomi",
+   "repository" : "DirtyUnicorns/proprietary_vendor_xiaomi",
    "target_path": "vendor/xiaomi",
-   "branch"     : "cm-14.1"
- },
- {i
-   "repository" : "LineageOS/android_packages_resources_devicesettings",
-   "target_path": "packages/resources/devicesettings",
-   "branch"     : "cm-14.1"
+   "branch"     : "n7x-caf"
  }
 ]
